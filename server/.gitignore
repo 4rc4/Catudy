@@ -1,3 +1,11 @@
-node_modules/
-.env
+# OS / Editor
 .DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+.vscode/
+
+# Node
+**/node_modules/
+**/.env
