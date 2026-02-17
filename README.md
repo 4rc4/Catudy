@@ -1,13 +1,12 @@
 # Catudy
+ 
+Unity based focusing app/game.
 
-Catudy = Cat + Study.  
-Unity tabanlı oyunlaştırılmış odaklanma / çalışma uygulaması (Android öncelikli).
+## Repo Structre
+- `client/` → Unity 
+- `server/` → Node.js API
 
-## Repo yapısı
-- `client/` → Unity projesi
-- `server/` → Node.js API (ileride realtime eklenecek)
-
-## Server’ı çalıştırma (ilk test)
+## Runserver first test
 ```bash
 cd server
 npm install
