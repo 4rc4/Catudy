@@ -14,11 +14,11 @@
 .DS_Store
 Thumbs.db
 
-# Unity packages lock
-# Packages/packages-lock.json
+# Unity packages lock (kalsın, takip edilir)
+# Packages/packages-lock.json  (BUNU IGNORE ETME)
 
 # Optional: Crash reports
 sysinfo.txt
 
-# Addressables cache
+# Addressables cache (ileride kullanırsak)
 [Aa]ssets/[Aa]ddressableAssetsData/*/*.bin*
